@@ -25,3 +25,8 @@ body {
   padding: 0.6rem 1.3rem;
   text-decoration: none;
 }
+
+img {
+  display: grid;
+  grid-gad: 20px;
+}
