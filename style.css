@@ -30,3 +30,8 @@ img {
   display: grid;
   grid-gad: 20px;
 }
+
+.wrapper {
+  display: grid;
+  grid-gap: 20px;
+}
