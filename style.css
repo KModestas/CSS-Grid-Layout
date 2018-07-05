@@ -72,3 +72,20 @@ img {
   'showcase showcase top-box-a'
   'showcase showcase top-box-b'
 }
+
+.showcase {
+  grid-area: showcase;
+  min-height: 400px;
+  background: url(images/showcase.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 3rem;
+}
+
+.top-box-a {
+  grid-area: top-box-a
+}
+
+.top-box-b {
+  grid-area: top-box-b;
+}
