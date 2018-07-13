@@ -149,3 +149,10 @@ img {
   grid-template-columns: repeat(2, 1fr);
   padding: 3rem;
 }
+
+/* portfolio */
+
+.portfolio img {
+  width: 100%;
+  box-shadow: var(--shadow);
+}
