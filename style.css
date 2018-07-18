@@ -191,4 +191,8 @@ footer {
     grid-template-columns: 1fr;
   }
 
+  .info {
+    grid-template-columns: 1fr;
+  }
+
 }
