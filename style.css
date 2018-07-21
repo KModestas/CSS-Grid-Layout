@@ -198,7 +198,16 @@ footer {
   .info .btn {
     display: block;
     text-align: center;
-    margin: 
+    margin:
+  }
+
+  @media (max-width: 500px) {
+    .top-container {
+      grid-template-areas:
+      'showcase'
+      'top-box-a'
+      'top-box-b';
+    }
   }
 
 }
